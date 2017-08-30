@@ -51,3 +51,4 @@ Upcoming changes will include:
 * Soft inject (leaving unknow properties in header unchanged - this is my priority now).
 * Possibility to exclude unwanted package.json attributes
 * Documentation of a module with JSDoc
+* More (and better described) tests
