@@ -1,0 +1,17 @@
+{
+  "name": "test-plugin",
+  "version": "0.0.1",
+  "description": "This is the description for the test plugin",
+  "keywords": [
+    "test-tags",
+    "test-tags-2",
+    "test-tags-3"
+  ],
+  "author": "Ann Doe",
+  "license": "MIT",
+  "wp-code-inject": {
+    "properties": {
+      "Text Domain": "testplugindomain"
+    }
+  }
+}
