@@ -13,10 +13,13 @@
   ],
   "author": "Maks Wojewoda",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Makeshan/wp-inject-config"
+  },
   "devDependencies": {
     "chai": "^4.1.0",
     "chai-diff": "^1.0.1",
     "mocha": "^3.5.0"
-  },
-  "dependencies": {}
+  }
 }
